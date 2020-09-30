@@ -1,0 +1,17 @@
+{
+  "name": "rudderrave/rave-i18n",
+  "description": "Migrations for Rave CMS&ERP powered site internationalization",
+  "license": "Apache-2.0",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Rave",
+      "email": "rudder.rave@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ravesoft\\rave-i18n\\": ""
+    }
+  }
+}
